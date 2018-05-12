@@ -1,5 +1,5 @@
 # burger
-### Overview. A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
+### A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 
 ### Description
 
