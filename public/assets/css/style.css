@@ -46,6 +46,9 @@ header img {
 .form-controls {
   margin-top: 20px;
 }
+.modal-trigger {
+  margin: 20px 0;
+}
 
 @media only screen and (min-width: 768px) and (max-width: 992px) {
   .title-burger-name {
